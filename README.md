@@ -1,0 +1,1 @@
+# mailerlite-shopify-sync
